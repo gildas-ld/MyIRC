@@ -61,3 +61,15 @@ Il est possible d’entrer des commandes dans le chat afin de réaliser différe
 ```
 L’envoi des messages se fait en tapant sur entrée
 ```
+
+## Demo
+
+<img src="login.png"
+alt="login"
+style="width: 450px;"
+/>
+
+<img src="room.png"
+alt="room"
+style="width: 450px;" 
+/>

@@ -27,7 +27,7 @@ function App() {
       <div className="App">
         <ReactNotifications />
         {showChat ? (
-          <div className="container-fluid">
+          <div className="container">
             <Commands />
 
             <Chat socket={socket} username={username} room={room} />
